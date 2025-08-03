@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
+
+---
+
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
 <div align = "center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/><br>
@@ -27,6 +30,8 @@
   <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
+
+---
 
 <h3 align="center"><b>📊 GitHub Status</b></h3>
 <div align="center">
